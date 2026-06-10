@@ -41,6 +41,25 @@
       ]
     },
     {
+      "id": "python-functions-modules",
+      "title": "Python Functions and Modules",
+      "description": "Write reusable functions and organize code into modules using import statements.",
+      "path": "assignments/python-functions-modules",
+      "dueDate": "2026-07-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Helper Module",
+          "file": "utils.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "data-analysis",
       "title": "Data Analysis",
       "description": "Basics of data analysis: loading, exploring, and visualizing data in Python.",
